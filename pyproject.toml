@@ -4,7 +4,7 @@ requires = ["maturin>=0.14,<0.15"]
 
 [project]
 name = "rust_matchspec"
-version = "0.2.1"
+version = "0.2.2"
 description = "A conda matchspec written in Rust"
 authors = [{ name = "Kyle Leaders" }]
 license = { text = "BSD-3-Clause" }
